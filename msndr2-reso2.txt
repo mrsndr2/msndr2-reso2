@@ -1,5 +1,6 @@
 Msndr2 Repso
 - poin 1 sesi 1
 - poin 2 sesi 1
-- poin 3 sesi 2
+
 - poin 4 sesi 2
+- poin 5 sesi 3
